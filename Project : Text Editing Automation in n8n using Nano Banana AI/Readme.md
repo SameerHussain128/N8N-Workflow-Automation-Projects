@@ -65,5 +65,4 @@ Final edited text file is ready to download or forward.
 
 📸 Workflow Screenshot
 
-![Homepage screenshots](screenshots/text edit.png)
-
+![Text Editing Workflow](./screenshots/text_edit.png)
